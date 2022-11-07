@@ -180,10 +180,7 @@ html {
 
 /* Begin: Slider */
 
-#slider {
-    
-    
-    position: relative;
+#slider 
    
 }
 
@@ -193,6 +190,7 @@ html {
     background-repeat: no-repeat;
     margin-top: 46px;
     padding-top: 50%;
+position: relative;
 }
 
 #slider .text-content{
