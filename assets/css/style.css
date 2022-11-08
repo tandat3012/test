@@ -180,18 +180,18 @@ html {
 
 /* Begin: Slider */
 
-#slider 
-   position: relative;
+#slider {
+  margin-top: 46px;
+  padding-top: 50%;
+
+  background-size: cover;
+  background-image: url(https://www.w3schools.com/w3css/img_chicago.jpg);
+  background-repeat: no-repeat;
+  background-position: top center;
+  position: relative;
 }
 
-#slider img {
-    background-position: top center;
-    background-size: cover;
-    background-repeat: no-repeat;
-    margin-top: 46px;
-    padding-top: 50%;
-position: absolute ;
-}
+
 
 #slider .text-content{
     position: absolute;
